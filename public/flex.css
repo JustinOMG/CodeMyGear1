@@ -1,0 +1,42 @@
+body{
+  font-family: helvetica;
+  font-size: 12px;
+  background-color: #000000;
+  margin: auto;
+  width: 95%;
+  color: #f8f8ff;
+  font-family: 'Roboto', sans-serif, arial;
+}
+
+.topnav a {
+  float: right;
+  color: #f8f8ff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+html {
+  background: #000000;
+}
+
+body {
+  width: 80%;
+  margin: 20px auto;
+  background: #000000;
+}
+
+#header {
+  background: #9c9965;
+  overflow: hidden;
+  zoom: 1;
+}
+
+#sidebar {
+  float: left;
+  width: 200px;
+  background: #d4c37b;
+  position: relative;
+}
